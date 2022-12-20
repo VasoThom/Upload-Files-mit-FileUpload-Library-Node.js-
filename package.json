@@ -1,0 +1,28 @@
+{
+  "name": "upload-files-mit-fileupload-library-node.js-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VasoThom/Upload-Files-mit-FileUpload-Library-Node.js-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VasoThom/Upload-Files-mit-FileUpload-Library-Node.js-/issues"
+  },
+  "homepage": "https://github.com/VasoThom/Upload-Files-mit-FileUpload-Library-Node.js-#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
